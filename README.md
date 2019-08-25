@@ -14,6 +14,7 @@ machine learning ,predict mongoDB update sample
 ***
 ### more
 
+https://knaka0209.hatenablog.com/entry/vue_express_8
 
 ***
 
