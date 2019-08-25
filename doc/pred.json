@@ -1,0 +1,11 @@
+// 
+db.createCollection("pred");
+
+db.pred.insert({ 
+    "val1":  1,
+    "val2" : 2, 
+    "uid" : 0,
+    "up_date" : new Date() 
+});
+
+//db.mdats.find();
